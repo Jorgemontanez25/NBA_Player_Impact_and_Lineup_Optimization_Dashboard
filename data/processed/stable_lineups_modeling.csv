@@ -1,0 +1,4 @@
+home_lineup_names,total_points,total_allowed,total_duration,total_stints,net_points,net_per_60,possessions_proxy,weighted_net,usage_tier
+"('Baris Ermis', 'Luka Zoric', 'James Birsen', 'Kenan Sipahi', 'Bojan Bogdanovic')",5,6,293,2,-1,-0.204778156996587,2,-59.99999999999999,Low usage
+"('Bo McCalebb', 'Linas Kleiza', 'Gasper Vidmar', 'Bojan Bogdanovic', 'Emir Preldzic')",29,32,760,6,-3,-0.2368421052631579,6,-180.0,High usage
+"('Bo McCalebb', 'Linas Kleiza', 'Luka Zoric', 'Bojan Bogdanovic', 'Emir Preldzic')",13,8,328,2,5,0.9146341463414632,2,299.99999999999994,Medium usage

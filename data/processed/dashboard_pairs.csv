@@ -1,0 +1,83 @@
+player_1_name,player_2_name,total_net_points,total_duration,total_stints,impact_per_60
+Thabo Sefolosha,Kevin Durant,-5,467,3,-0.6423982869379015
+Thabo Sefolosha,Serge Ibaka,2,1524,16,0.0787401574803149
+Thabo Sefolosha,Hasheem Thabeet,1,689,10,0.0870827285921625
+Thabo Sefolosha,Reggie Jackson,-4,1681,18,-0.1427721594289113
+Thabo Sefolosha,Jeremy Lamb,10,2176,27,0.2757352941176471
+Thabo Sefolosha,Perry Jones III,9,962,12,0.5613305613305614
+Thabo Sefolosha,Diante Garrett,2,329,5,0.364741641337386
+Thabo Sefolosha,Nick Collison,-2,524,9,-0.2290076335877862
+Thabo Sefolosha,Kendrick Perkins,3,1745,15,0.1031518624641833
+Thabo Sefolosha,Derek Fisher,4,475,5,0.5052631578947369
+Kevin Durant,Serge Ibaka,-5,467,3,-0.6423982869379015
+Kevin Durant,Reggie Jackson,-5,467,3,-0.6423982869379015
+Kevin Durant,Kendrick Perkins,-8,443,2,-1.0835214446952597
+Serge Ibaka,Reggie Jackson,-2,1285,12,-0.0933852140077821
+Serge Ibaka,Jeremy Lamb,7,1057,13,0.3973509933774834
+Serge Ibaka,Perry Jones III,4,239,4,1.00418410041841
+Serge Ibaka,Nick Collison,0,128,3,0.0
+Serge Ibaka,Kendrick Perkins,-1,1270,10,-0.0472440944881889
+Hasheem Thabeet,Reggie Jackson,0,441,7,0.0
+Hasheem Thabeet,Jeremy Lamb,1,689,10,0.0870827285921625
+Hasheem Thabeet,Perry Jones III,1,248,3,0.2419354838709677
+Hasheem Thabeet,Diante Garrett,1,248,3,0.2419354838709677
+Hasheem Thabeet,Nick Collison,-2,396,6,-0.303030303030303
+Reggie Jackson,Jeremy Lamb,1,1214,15,0.0494233937397034
+Reggie Jackson,Nick Collison,-2,524,9,-0.2290076335877862
+Reggie Jackson,Kendrick Perkins,-4,1112,8,-0.2158273381294964
+Jeremy Lamb,Perry Jones III,9,962,12,0.5613305613305614
+Jeremy Lamb,Diante Garrett,2,329,5,0.364741641337386
+Jeremy Lamb,Nick Collison,-5,500,8,-0.6
+Jeremy Lamb,Kendrick Perkins,11,1302,13,0.5069124423963134
+Jeremy Lamb,Derek Fisher,4,475,5,0.5052631578947369
+Perry Jones III,Diante Garrett,2,329,5,0.364741641337386
+Perry Jones III,Kendrick Perkins,7,633,7,0.6635071090047393
+Perry Jones III,Derek Fisher,4,475,5,0.5052631578947369
+Kendrick Perkins,Derek Fisher,4,475,5,0.5052631578947369
+Bo McCalebb,Baris Ermis,-3,159,2,-1.1320754716981132
+Bo McCalebb,42536,1,1184,10,0.0506756756756756
+Bo McCalebb,Gasper Vidmar,-4,856,8,-0.2803738317757009
+Bo McCalebb,Luka Zoric,2,487,4,0.2464065708418891
+Bo McCalebb,Bojan Bogdanovic,-1,1295,11,-0.0463320463320463
+Bo McCalebb,Emir Preldzic,-2,1295,11,-0.0926640926640926
+Baris Ermis,Luka Zoric,-4,475,5,-0.5052631578947369
+Baris Ermis,James Birsen,-1,316,3,-0.1898734177215189
+Baris Ermis,Kenan Sipahi,-1,316,3,-0.1898734177215189
+Baris Ermis,Bojan Bogdanovic,-4,452,4,-0.5309734513274336
+Baris Ermis,Emir Preldzic,-3,159,2,-1.1320754716981132
+Melih Mahmutoglu,42536,-2,372,7,-0.3225806451612903
+Melih Mahmutoglu,Izzet Turkyilmaz,-3,459,6,-0.392156862745098
+Melih Mahmutoglu,Gasper Vidmar,0,382,8,0.0
+Melih Mahmutoglu,Luka Zoric,-1,369,4,-0.1626016260162601
+Melih Mahmutoglu,James Birsen,-6,719,10,-0.5006954102920723
+Melih Mahmutoglu,Kenan Sipahi,-4,866,13,-0.277136258660508
+Melih Mahmutoglu,Bojan Bogdanovic,2,195,4,0.6153846153846154
+Melih Mahmutoglu,Emir Preldzic,-1,179,3,-0.335195530726257
+Melih Mahmutoglu,Ayberk Olmaz,-4,211,3,-1.137440758293839
+42536,Gasper Vidmar,-2,939,10,-0.1277955271565495
+42536,Luka Zoric,2,509,5,0.2357563850687622
+42536,James Birsen,-3,216,4,-0.8333333333333333
+42536,Kenan Sipahi,-1,299,6,-0.2006688963210702
+42536,Bojan Bogdanovic,4,1219,11,0.1968826907301066
+42536,Emir Preldzic,1,1136,9,0.0528169014084507
+Izzet Turkyilmaz,Gasper Vidmar,1,158,3,0.3797468354430379
+Izzet Turkyilmaz,Luka Zoric,0,125,1,0.0
+Izzet Turkyilmaz,James Birsen,-1,513,7,-0.1169590643274853
+Izzet Turkyilmaz,Kenan Sipahi,-2,475,7,-0.2526315789473684
+Izzet Turkyilmaz,Ayberk Olmaz,-2,294,4,-0.4081632653061224
+Gasper Vidmar,James Birsen,-1,139,3,-0.4316546762589928
+Gasper Vidmar,Kenan Sipahi,1,286,6,0.2097902097902098
+Gasper Vidmar,Bojan Bogdanovic,-1,955,10,-0.06282722513089
+Gasper Vidmar,Emir Preldzic,-6,853,8,-0.4220398593200469
+Luka Zoric,James Birsen,-2,685,7,-0.1751824817518248
+Luka Zoric,Kenan Sipahi,-2,685,7,-0.1751824817518248
+Luka Zoric,Bojan Bogdanovic,1,780,6,0.0769230769230769
+Luka Zoric,Emir Preldzic,4,573,5,0.418848167539267
+James Birsen,Kenan Sipahi,-6,1051,14,-0.3425309229305423
+James Birsen,Bojan Bogdanovic,-1,293,2,-0.204778156996587
+James Birsen,Emir Preldzic,0,131,2,0.0
+James Birsen,Ayberk Olmaz,-2,329,5,-0.364741641337386
+Kenan Sipahi,Bojan Bogdanovic,1,440,5,0.1363636363636363
+Kenan Sipahi,Emir Preldzic,0,131,2,0.0
+Kenan Sipahi,Ayberk Olmaz,-3,227,4,-0.7929515418502203
+Bojan Bogdanovic,Emir Preldzic,-1,1247,10,-0.0481154771451483

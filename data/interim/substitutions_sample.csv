@@ -1,0 +1,36 @@
+game_id,eventnum,period,pctimestring,eventmsgtype,eventmsgactiontype,score,scoremargin,homedescription,visitordescription,neutraldescription,player1_id,player1_name,player1_team_id,player2_id,player2_name,player2_team_id,player3_id,player3_name,player3_team_id,player_out,player_in,team_id
+0011300001,44,1,7:35,8,0,,,SUB: Vidmar FOR Zoric,,,42540,Luka Zoric,12321.0,42538,Gasper Vidmar,12321.0,0,,,Luka Zoric,Gasper Vidmar,12321.0
+0011300001,69,1,4:35,8,0,,,,SUB: Collison FOR Perkins,,2570,Kendrick Perkins,1610612760.0,2555,Nick Collison,1610612760.0,0,,,Kendrick Perkins,Nick Collison,1610612760.0
+0011300001,77,1,3:57,8,0,,,,SUB: Lamb FOR Durant,,201142,Kevin Durant,1610612760.0,203087,Jeremy Lamb,1610612760.0,0,,,Kevin Durant,Jeremy Lamb,1610612760.0
+0011300001,81,1,3:57,8,0,,,SUB: Mahmutoglu FOR Preldzic,,,42545,Emir Preldzic,12321.0,42535,Melih Mahmutoglu,12321.0,0,,,Emir Preldzic,Melih Mahmutoglu,12321.0
+0011300001,92,1,3:09,8,0,,,SUB: Sipahi FOR McCalebb,,,42531,Bo McCalebb,12321.0,42542,Kenan Sipahi,12321.0,0,,,Bo McCalebb,Kenan Sipahi,12321.0
+0011300001,103,1,2:13,8,0,,,,SUB: Thabeet FOR Ibaka,,201586,Serge Ibaka,1610612760.0,201934,Hasheem Thabeet,1610612760.0,0,,,Serge Ibaka,Hasheem Thabeet,1610612760.0
+0011300001,113,1,1:28,8,0,,,SUB: Turkyilmaz FOR Kleiza,,,42536,,12321.0,42537,Izzet Turkyilmaz,12321.0,0,,,,Izzet Turkyilmaz,12321.0
+0011300001,130,1,0:21,8,0,,,SUB: Birsen FOR Bogdanovic,,,42544,Bojan Bogdanovic,12321.0,42541,James Birsen,12321.0,0,,,Bojan Bogdanovic,James Birsen,12321.0
+0011300001,158,2,10:32,8,0,,,SUB: Zoric FOR Vidmar,,,42538,Gasper Vidmar,12321.0,42540,Luka Zoric,12321.0,0,,,Gasper Vidmar,Luka Zoric,12321.0
+0011300001,177,2,8:20,8,0,,,SUB: Preldzic FOR Turkyilmaz,,,42537,Izzet Turkyilmaz,12321.0,42545,Emir Preldzic,12321.0,0,,,Izzet Turkyilmaz,Emir Preldzic,12321.0
+0011300001,192,2,6:48,8,0,,,,SUB: Ibaka FOR Collison,,2555,Nick Collison,1610612760.0,201586,Serge Ibaka,1610612760.0,0,,,Nick Collison,Serge Ibaka,1610612760.0
+0011300001,196,2,6:36,8,0,,,SUB: Vidmar FOR Zoric,,,42540,Luka Zoric,12321.0,42538,Gasper Vidmar,12321.0,0,,,Luka Zoric,Gasper Vidmar,12321.0
+0011300001,208,2,5:51,8,0,,,SUB: McCalebb FOR Sipahi,,,42542,Kenan Sipahi,12321.0,42531,Bo McCalebb,12321.0,0,,,Kenan Sipahi,Bo McCalebb,12321.0
+0011300001,209,2,5:51,8,0,,,SUB: Kleiza FOR Birsen,,,42541,James Birsen,12321.0,42536,,12321.0,0,,,James Birsen,,12321.0
+0011300001,210,2,5:51,8,0,,,,SUB: Perkins FOR Thabeet,,201934,Hasheem Thabeet,1610612760.0,2570,Kendrick Perkins,1610612760.0,0,,,Hasheem Thabeet,Kendrick Perkins,1610612760.0
+0011300001,223,2,4:42,8,0,,,SUB: Bogdanovic FOR Mahmutoglu,,,42535,Melih Mahmutoglu,12321.0,42544,Bojan Bogdanovic,12321.0,0,,,Melih Mahmutoglu,Bojan Bogdanovic,12321.0
+0011300001,227,2,4:30,8,0,,,,SUB: Jackson FOR Fisher,,965,Derek Fisher,1610612760.0,202704,Reggie Jackson,1610612760.0,0,,,Derek Fisher,Reggie Jackson,1610612760.0
+0011300001,255,2,1:32,8,0,,,,SUB: Sefolosha FOR Perkins,,2570,Kendrick Perkins,1610612760.0,200757,Thabo Sefolosha,1610612760.0,0,,,Kendrick Perkins,Thabo Sefolosha,1610612760.0
+0011300001,340,3,6:48,8,0,,,SUB: Zoric FOR Vidmar,,,42538,Gasper Vidmar,12321.0,42540,Luka Zoric,12321.0,0,,,Gasper Vidmar,Luka Zoric,12321.0
+0011300001,351,3,5:45,8,0,,,SUB: Ermis FOR Kleiza,,,42536,,12321.0,42534,Baris Ermis,12321.0,0,,,,Baris Ermis,12321.0
+0011300001,352,3,5:45,8,0,,,,SUB: Jones FOR Ibaka,,201586,Serge Ibaka,1610612760.0,203103,Perry Jones III,1610612760.0,0,,,Serge Ibaka,Perry Jones III,1610612760.0
+0011300001,353,3,5:45,8,0,,,,SUB: Fisher FOR Jackson,,202704,Reggie Jackson,1610612760.0,965,Derek Fisher,1610612760.0,0,,,Reggie Jackson,Derek Fisher,1610612760.0
+0011300001,377,3,3:26,8,0,,,,SUB: Lamb FOR Durant,,201142,Kevin Durant,1610612760.0,203087,Jeremy Lamb,1610612760.0,0,,,Kevin Durant,Jeremy Lamb,1610612760.0
+0011300001,386,3,2:29,8,0,,,SUB: Sipahi FOR McCalebb,,,42531,Bo McCalebb,12321.0,42542,Kenan Sipahi,12321.0,0,,,Bo McCalebb,Kenan Sipahi,12321.0
+0011300001,387,3,2:29,8,0,,,SUB: Birsen FOR Preldzic,,,42545,Emir Preldzic,12321.0,42541,James Birsen,12321.0,0,,,Emir Preldzic,James Birsen,12321.0
+0011300001,435,4,9:18,8,0,,,SUB: Kleiza FOR Bogdanovic,,,42544,Bojan Bogdanovic,12321.0,42536,,12321.0,0,,,Bojan Bogdanovic,,12321.0
+0011300001,442,4,8:47,8,0,,,SUB: Mahmutoglu FOR Ermis,,,42534,Baris Ermis,12321.0,42535,Melih Mahmutoglu,12321.0,0,,,Baris Ermis,Melih Mahmutoglu,12321.0
+0011300001,443,4,8:47,8,0,,,,SUB: Ibaka FOR Adams,,203500,Steven Adams,1610612760.0,201586,Serge Ibaka,1610612760.0,0,,,Steven Adams,Serge Ibaka,1610612760.0
+0011300001,454,4,7:51,8,0,,,SUB: Zoric FOR Vidmar,,,42538,Gasper Vidmar,12321.0,42540,Luka Zoric,12321.0,0,,,Gasper Vidmar,Luka Zoric,12321.0
+0011300001,467,4,6:09,8,0,,,,SUB: Garrett FOR Fisher,,965,Derek Fisher,1610612760.0,203197,Diante Garrett,1610612760.0,0,,,Derek Fisher,Diante Garrett,1610612760.0
+0011300001,468,4,6:09,8,0,,,SUB: Olmaz FOR Zoric,,,42540,Luka Zoric,12321.0,42547,Ayberk Olmaz,12321.0,0,,,Luka Zoric,Ayberk Olmaz,12321.0
+0011300001,478,4,5:20,8,0,,,SUB: Turkyilmaz FOR Kleiza,,,42536,,12321.0,42537,Izzet Turkyilmaz,12321.0,0,,,,Izzet Turkyilmaz,12321.0
+0011300001,489,4,4:15,8,0,,,,SUB: Thabeet FOR Ibaka,,201586,Serge Ibaka,1610612760.0,201934,Hasheem Thabeet,1610612760.0,0,,,Serge Ibaka,Hasheem Thabeet,1610612760.0
+0011300001,508,4,2:05,8,0,,,SUB: Ugurlu FOR Mahmutoglu,,,42535,Melih Mahmutoglu,12321.0,42546,Berk Ugurlu,12321.0,0,,,Melih Mahmutoglu,Berk Ugurlu,12321.0
+0011300001,514,4,1:49,8,0,,,SUB: Yurtseven FOR Sipahi,,,42542,Kenan Sipahi,12321.0,1962936724,,12321.0,0,,,Kenan Sipahi,,12321.0
