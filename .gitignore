@@ -16,3 +16,8 @@ data/raw/
 # OS files
 .DS_Store
 Thumbs.db
+
+Add-Content .gitignore "`ndata/raw.zip"
+Add-Content .gitignore "`ndata/raw/"
+Add-Content .gitignore "`n*.sqlite"
+Add-Content .gitignore "`n*.db"
