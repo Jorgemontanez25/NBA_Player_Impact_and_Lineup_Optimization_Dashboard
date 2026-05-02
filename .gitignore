@@ -1,23 +1,15 @@
-# Python
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Environments
 .env
 .venv/
 venv/
 
-# Large/raw data
 data/raw/
+data/raw.zip
 *.sqlite
 *.db
 
-# OS files
 .DS_Store
 Thumbs.db
-
-Add-Content .gitignore "`ndata/raw.zip"
-Add-Content .gitignore "`ndata/raw/"
-Add-Content .gitignore "`n*.sqlite"
-Add-Content .gitignore "`n*.db"
