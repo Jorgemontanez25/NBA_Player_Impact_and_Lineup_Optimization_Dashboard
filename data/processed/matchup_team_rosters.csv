@@ -1,0 +1,386 @@
+team_id,player_id,player_name,team_name
+1610612737,673,Alan Henderson,Atlanta Hawks
+1610612737,1533,Anthony Johnson,Atlanta Hawks
+1610612737,292,Anthony Miller,Atlanta Hawks
+1610612737,1898,Cal Bowdler,Atlanta Hawks
+1610612737,1544,Chris Crawford,Atlanta Hawks
+1610612737,2035,DerMarr Johnson,Atlanta Hawks
+1610612737,87,Dikembe Mutombo,Atlanta Hawks
+1610612737,2069,Hanno Mottola,Atlanta Hawks
+1610612737,1891,Jason Terry,Atlanta Hawks
+1610612737,754,Jim Jackson,Atlanta Hawks
+1610612737,1683,Larry Robinson,Atlanta Hawks
+1610612737,953,Lorenzen Wright,Atlanta Hawks
+1610612737,1074,Matt Maloney,Atlanta Hawks
+1610612737,1728,Roshown McLeod,Atlanta Hawks
+1610612738,1559,Adrian Griffin,Boston Celtics
+1610612738,952,Antoine Walker,Boston Celtics
+1610612738,179,Bryant Stith,Boston Celtics
+1610612738,713,Chris Carr,Boston Celtics
+1610612738,1914,Chris Herren,Boston Celtics
+1610612738,77,Doug Overton,Boston Celtics
+1610612738,677,Eric Williams,Boston Celtics
+1610612738,2040,Jerome Moiso,Boston Celtics
+1610612738,72,Kenny Anderson,Boston Celtics
+1610612738,1548,Mark Blount,Boston Celtics
+1610612738,1718,Paul Pierce,Boston Celtics
+1610612738,753,Randy Brown,Boston Celtics
+1610612738,1594,Rick Brunson,Boston Celtics
+1610612738,1499,Tony Battie,Boston Celtics
+1610612738,958,Vitaly Potapenko,Boston Celtics
+1610612738,962,Walter McCarty,Boston Celtics
+1610612751,1425,Aaron Williams,Brooklyn Nets
+1610612751,1915,Evan Eschmeyer,Brooklyn Nets
+1610612751,29,Jim McIlvaine,Brooklyn Nets
+1610612751,271,Johnny Newman,Brooklyn Nets
+1610612751,383,Kendall Gill,Brooklyn Nets
+1610612751,2030,Kenyon Martin,Brooklyn Nets
+1610612751,1563,Kevin Ollie,Brooklyn Nets
+1610612751,446,Lucious Harris,Brooklyn Nets
+1610612751,428,Sherman Douglas,Brooklyn Nets
+1610612751,2066,Soumaila Samake,Brooklyn Nets
+1610612751,1536,Stephen Jackson,Brooklyn Nets
+1610612751,950,Stephon Marbury,Brooklyn Nets
+1610612766,1884,Baron Davis,Charlotte Hornets
+1610612766,133,David Wesley,Charlotte Hornets
+1610612766,934,Derrick Coleman,Charlotte Hornets
+1610612766,1944,Eddie Robinson,Charlotte Hornets
+1610612766,922,Elden Campbell,Charlotte Hornets
+1610612766,695,Eldridge Recasner,Charlotte Hornets
+1610612766,765,Hersey Hawkins,Charlotte Hornets
+1610612766,2048,Jamaal Magloire,Charlotte Hornets
+1610612766,469,Jamal Mashburn,Charlotte Hornets
+1610612766,1924,Lee Nailon,Charlotte Hornets
+1610612766,901,Otis Thorpe,Charlotte Hornets
+1610612766,136,P.J. Brown,Charlotte Hornets
+1610612766,2121,Terrance Roberson,Charlotte Hornets
+1610612766,1906,Tim James,Charlotte Hornets
+1610612741,2062,A.J. Guyton,Chicago Bulls
+1610612741,1802,Brad Miller,Chicago Bulls
+1610612741,1724,Bryce Drew,Chicago Bulls
+1610612741,1736,Corey Benjamin,Chicago Bulls
+1610612741,2053,Dalibor Bagaric,Chicago Bulls
+1610612741,1434,Dragan Tarlac,Chicago Bulls
+1610612741,1882,Elton Brand,Chicago Bulls
+1610612741,697,Fred Hoiberg,Chicago Bulls
+1610612741,2063,Jake Voskuhl,Chicago Bulls
+1610612741,2037,Jamal Crawford,Chicago Bulls
+1610612741,2064,Khalid El-Amin,Chicago Bulls
+1610612741,2033,Marcus Fizer,Chicago Bulls
+1610612741,1897,Metta World Peace,Chicago Bulls
+1610612741,1913,Michael Ruffin,Chicago Bulls
+1610612741,1500,Ron Mercer,Chicago Bulls
+1610612739,1889,Andre Miller,Cleveland Cavaliers
+1610612739,902,Bimbo Coles,Cleveland Cavaliers
+1610612739,1538,Cedric Henderson,Cleveland Cavaliers
+1610612739,423,Chris Gatling,Cleveland Cavaliers
+1610612739,2036,Chris Mihm,Cleveland Cavaliers
+1610612739,221,Clar. Weatherspoon,Cleveland Cavaliers
+1610612739,441,Lamond Murray,Cleveland Cavaliers
+1610612739,1723,Matt Harpring,Cleveland Cavaliers
+1610612739,1138,Michael Hawkins,Cleveland Cavaliers
+1610612739,1714,Robert Traylor,Cleveland Cavaliers
+1610612739,1892,Trajan Langdon,Cleveland Cavaliers
+1610612739,445,Wesley Person,Cleveland Cavaliers
+1610612739,980,Zydrunas Ilgauskas,Cleveland Cavaliers
+1610612742,223,Bill Curley,Dallas Mavericks
+1610612742,363,Christian Laettner,Dallas Mavericks
+1610612742,2042,Courtney Alexander,Dallas Mavericks
+1610612742,1717,Dirk Nowitzki,Dallas Mavericks
+1610612742,2059,Eduardo Najera,Dallas Mavericks
+1610612742,1761,Greg Buckner,Dallas Mavericks
+1610612742,458,Howard Eisley,Dallas Mavericks
+1610612742,93,Hubert Davis,Dallas Mavericks
+1610612742,919,Loy Vaught,Dallas Mavericks
+1610612742,714,Michael Finley,Dallas Mavericks
+1610612742,762,Shawn Bradley,Dallas Mavericks
+1610612742,959,Steve Nash,Dallas Mavericks
+1610612743,686,Antonio McDyess,Denver Nuggets
+1610612743,45,George McCloud,Denver Nuggets
+1610612743,1899,James Posey,Denver Nuggets
+1610612743,1721,Keon Clark,Denver Nuggets
+1610612743,1110,Mark Strickland,Denver Nuggets
+1610612743,89,Nick Van Exel,Denver Nuggets
+1610612743,1711,Raef LaFrentz,Denver Nuggets
+1610612743,123,Robert Pack,Denver Nuggets
+1610612743,1505,Tariq Abdul-Wahad,Denver Nuggets
+1610612743,426,Terry Davis,Denver Nuggets
+1610612743,145,Tracy Murray,Denver Nuggets
+1610612743,702,Voshon Lenard,Denver Nuggets
+1610612765,1112,Ben Wallace,Detroit Pistons
+1610612765,182,Billy Owens,Detroit Pistons
+1610612765,76,Cedric Ceballos,Detroit Pistons
+1610612765,1088,Chucky Atkins,Detroit Pistons
+1610612765,344,Dana Barros,Detroit Pistons
+1610612765,376,Eric Montross,Detroit Pistons
+1610612765,966,Jerome Williams,Detroit Pistons
+1610612765,711,Jerry Stackhouse,Detroit Pistons
+1610612765,693,Joe Smith,Detroit Pistons
+1610612765,961,John Wallace,Detroit Pistons
+1610612765,146,Jud Buechler,Detroit Pistons
+1610612765,2043,Mateen Cleaves,Detroit Pistons
+1610612765,688,Michael Curry,Detroit Pistons
+1610612765,1630,Mikki Moore,Detroit Pistons
+1610612744,228,Adam Keefe,Golden State Warriors
+1610612744,1502,Adonal Foyle,Golden State Warriors
+1610612744,1712,Antawn Jamison,Golden State Warriors
+1610612744,682,Bob Sura,Golden State Warriors
+1610612744,168,Chris Mills,Golden State Warriors
+1610612744,904,Chris Mullin,Golden State Warriors
+1610612744,2084,Chris Porter,Golden State Warriors
+1610612744,1504,Danny Fortson,Golden State Warriors
+1610612744,956,Erick Dampier,Golden State Warriors
+1610612744,1716,Larry Hughes,Golden State Warriors
+1610612744,1531,Marc Jackson,Golden State Warriors
+1610612744,302,Mookie Blaylock,Golden State Warriors
+1610612744,988,Randy Livingston,Golden State Warriors
+1610612744,219,Vinny Del Negro,Golden State Warriors
+1610612744,1907,Vonteego Cummings,Golden State Warriors
+1610612745,435,Carlos Rogers,Houston Rockets
+1610612745,1749,Cuttino Mobley,Houston Rockets
+1610612745,2061,Dan Langhi,Houston Rockets
+1610612745,165,Hakeem Olajuwon,Houston Rockets
+1610612745,2044,Jason Collier,Houston Rockets
+1610612745,1509,Kelvin Cato,Houston Rockets
+1610612745,1903,Kenny Thomas,Houston Rockets
+1610612745,672,Matt Bullard,Houston Rockets
+1610612745,1508,Maurice Taylor,Houston Rockets
+1610612745,983,Moochie Norris,Houston Rockets
+1610612745,1000,Shandon Anderson,Houston Rockets
+1610612745,1883,Steve Francis,Houston Rockets
+1610612745,1005,Walt Williams,Houston Rockets
+1610612754,1733,Al Harrington,Indiana Pacers
+1610612754,1506,Austin Croshere,Indiana Pacers
+1610612754,1743,Bruno Sundov,Indiana Pacers
+1610612754,365,Derrick McKey,Indiana Pacers
+1610612754,147,Jalen Rose,Indiana Pacers
+1610612754,1902,Jeff Foster,Indiana Pacers
+1610612754,979,Jermaine O'Neal,Indiana Pacers
+1610612754,1886,Jonathan Bender,Indiana Pacers
+1610612754,397,Reggie Miller,Indiana Pacers
+1610612754,64,Sam Perkins,Indiana Pacers
+1610612754,371,Terry Mills,Indiana Pacers
+1610612754,696,Travis Best,Indiana Pacers
+1610612754,721,Tyus Edney,Indiana Pacers
+1610612754,440,Zan Tabak,Indiana Pacers
+1610612746,1730,Brian Skinner,Los Angeles Clippers
+1610612746,1894,Corey Maggette,Los Angeles Clippers
+1610612746,2032,Darius Miles,Los Angeles Clippers
+1610612746,400,Derek Strong,Los Angeles Clippers
+1610612746,15,Eric Piatkowski,Los Angeles Clippers
+1610612746,976,Jeff McInnis,Los Angeles Clippers
+1610612746,2039,Keyon Dooling,Los Angeles Clippers
+1610612746,1885,Lamar Odom,Los Angeles Clippers
+1610612746,1709,Michael Olowokandi,Los Angeles Clippers
+1610612746,2047,Quentin Richardson,Los Angeles Clippers
+1610612746,399,Sean Rooks,Los Angeles Clippers
+1610612746,1838,Tyrone Nesby,Los Angeles Clippers
+1610612746,1985,Zendon Hamilton,Los Angeles Clippers
+1610612747,216,Brian Shaw,Los Angeles Lakers
+1610612747,1904,Devean George,Los Angeles Lakers
+1610612747,323,Greg Foster,Los Angeles Lakers
+1610612747,270,Horace Grant,Los Angeles Lakers
+1610612747,375,Isaiah Rider,Los Angeles Lakers
+1610612747,977,Kobe Bryant,Los Angeles Lakers
+1610612747,2058,Mark Madsen,Los Angeles Lakers
+1610612747,2130,Mike Penberthy,Los Angeles Lakers
+1610612747,296,Rick Fox,Los Angeles Lakers
+1610612747,109,Robert Horry,Los Angeles Lakers
+1610612747,166,Ron Harper,Los Angeles Lakers
+1610612747,406,Shaquille O'Neal,Los Angeles Lakers
+1610612747,1731,Tyronn Lue,Los Angeles Lakers
+1610612763,735,Bryant Reeves,Memphis Grizzlies
+1610612763,1800,Damon Jones,Memphis Grizzlies
+1610612763,28,Doug West,Memphis Grizzlies
+1610612763,3,Grant Long,Memphis Grizzlies
+1610612763,1134,Ike Austin,Memphis Grizzlies
+1610612763,236,Kevin Edwards,Memphis Grizzlies
+1610612763,51,Mahmoud Abdul-Rauf,Memphis Grizzlies
+1610612763,1722,Michael Dickerson,Memphis Grizzlies
+1610612763,1710,Mike Bibby,Memphis Grizzlies
+1610612763,970,Othella Harrington,Memphis Grizzlies
+1610612763,949,Shareef Abdur-Rahim,Memphis Grizzlies
+1610612763,2031,Stromile Swift,Memphis Grizzlies
+1610612763,763,Tony Massenburg,Memphis Grizzlies
+1610612748,920,A.C. Green,Miami Heat
+1610612748,1853,Anthony Carter,Miami Heat
+1610612748,193,Anthony Mason,Miami Heat
+1610612748,258,Brian Grant,Miami Heat
+1610612748,1477,Bruce Bowen,Miami Heat
+1610612748,76,Cedric Ceballos,Miami Heat
+1610612748,931,Don MacLean,Miami Heat
+1610612748,190,Duane Causwell,Miami Heat
+1610612748,2067,Eddie House,Miami Heat
+1610612748,224,Eddie Jones,Miami Heat
+1610612748,1554,Jamal Robinson,Miami Heat
+1610612748,896,Tim Hardaway,Miami Heat
+1610612748,957,Todd Fuller,Miami Heat
+1610612749,1032,Darvin Ham,Milwaukee Bucks
+1610612749,911,Ervin Johnson,Milwaukee Bucks
+1610612749,299,Glenn Robinson,Milwaukee Bucks
+1610612749,679,Jason Caffey,Milwaukee Bucks
+1610612749,760,Jerome Kersey,Milwaukee Bucks
+1610612749,2038,Joel Przybilla,Milwaukee Bucks
+1610612749,283,Lindsey Hunter,Milwaukee Bucks
+1610612749,998,Mark Pope,Milwaukee Bucks
+1610612749,2072,Michael Redd,Milwaukee Bucks
+1610612749,1747,Rafer Alston,Milwaukee Bucks
+1610612749,951,Ray Allen,Milwaukee Bucks
+1610612749,208,Sam Cassell,Milwaukee Bucks
+1610612749,281,Scott Williams,Milwaukee Bucks
+1610612749,1501,Tim Thomas,Milwaukee Bucks
+1610612750,324,Anthony Peeler,Minnesota Timberwolves
+1610612750,1497,Chauncey Billups,Minnesota Timberwolves
+1610612750,1051,Dean Garrett,Minnesota Timberwolves
+1610612750,708,Kevin Garnett,Minnesota Timberwolves
+1610612750,111,LaPhonso Ellis,Minnesota Timberwolves
+1610612750,1725,Rasho Nesterovic,Minnesota Timberwolves
+1610612750,1073,Reggie Slater,Minnesota Timberwolves
+1610612750,1734,Sam Jacobson,Minnesota Timberwolves
+1610612750,417,Sam Mitchell,Minnesota Timberwolves
+1610612750,210,Terrell Brandon,Minnesota Timberwolves
+1610612750,103,Todd Day,Minnesota Timberwolves
+1610612750,67,Tom Hammonds,Minnesota Timberwolves
+1610612750,1887,Wally Szczerbiak,Minnesota Timberwolves
+1610612750,1895,William Avery,Minnesota Timberwolves
+1610612752,275,Allan Houston,New York Knicks
+1610612752,369,Charlie Ward,New York Knicks
+1610612752,164,Chris Childs,New York Knicks
+1610612752,1065,Erick Strickland,New York Knicks
+1610612752,280,Felton Spencer,New York Knicks
+1610612752,779,Glen Rice,New York Knicks
+1610612752,703,Kurt Thomas,New York Knicks
+1610612752,913,Larry Johnson,New York Knicks
+1610612752,84,Latrell Sprewell,New York Knicks
+1610612752,2068,Lavor Postell,New York Knicks
+1610612752,26,Luc Longley,New York Knicks
+1610612752,948,Marcus Camby,New York Knicks
+1610612752,1594,Rick Brunson,New York Knicks
+1610612752,969,Travis Knight,New York Knicks
+1610612760,699,Brent Barry,Oklahoma City Thunder
+1610612760,2046,Desmond Mason,Oklahoma City Thunder
+1610612760,1023,Emanual Davis,Oklahoma City Thunder
+1610612760,56,Gary Payton,Oklahoma City Thunder
+1610612760,1741,Jelani McCoy,Oklahoma City Thunder
+1610612760,121,Patrick Ewing,Oklahoma City Thunder
+1610612760,442,Pervis Ellison,Oklahoma City Thunder
+1610612760,1740,Rashard Lewis,Oklahoma City Thunder
+1610612760,1739,Ruben Patterson,Oklahoma City Thunder
+1610612760,2106,Ruben Wolkowyski,Oklahoma City Thunder
+1610612760,1742,Shammond Williams,Oklahoma City Thunder
+1610612760,452,Vin Baker,Oklahoma City Thunder
+1610612753,692,Andrew DeClercq,Orlando Magic
+1610612753,448,Bo Outlaw,Orlando Magic
+1610612753,353,Darrell Armstrong,Orlando Magic
+1610612753,690,Don Reid,Orlando Magic
+1610612753,386,Elliot Perry,Orlando Magic
+1610612753,255,Grant Hill,Orlando Magic
+1610612753,680,John Amaechi,Orlando Magic
+1610612753,1720,Michael Doleac,Orlando Magic
+1610612753,2034,Mike Miller,Orlando Magic
+1610612753,42,Monty Williams,Orlando Magic
+1610612753,1727,Pat Garrity,Orlando Magic
+1610612753,1503,Tracy McGrady,Orlando Magic
+1610612753,1607,Troy Hudson,Orlando Magic
+1610612755,243,Aaron McKie,Philadelphia 76ers
+1610612755,947,Allen Iverson,Philadelphia 76ers
+1610612755,727,Eric Snow,Philadelphia 76ers
+1610612755,248,George Lynch,Philadelphia 76ers
+1610612755,1908,Jumaine Jones,Philadelphia 76ers
+1610612755,761,Matt Geiger,Philadelphia 76ers
+1610612755,1737,Nazr Mohammed,Philadelphia 76ers
+1610612755,2143,Pepe Sanchez,Philadelphia 76ers
+1610612755,689,Theo Ratliff,Philadelphia 76ers
+1610612755,1928,Todd MacCulloch,Philadelphia 76ers
+1610612755,389,Toni Kukoc,Philadelphia 76ers
+1610612755,238,Tyrone Hill,Philadelphia 76ers
+1610612755,137,Vernon Maxwell,Philadelphia 76ers
+1610612756,201,Chris Dudley,Phoenix Suns
+1610612756,361,Clifford Robinson,Phoenix Suns
+1610612756,916,Corie Blount,Phoenix Suns
+1610612756,2091,Daniel Santiago,Phoenix Suns
+1610612756,2054,Jake Tsakalidis,Phoenix Suns
+1610612756,467,Jason Kidd,Phoenix Suns
+1610612756,53,Mario Elie,Phoenix Suns
+1610612756,2101,Paul McPherson,Phoenix Suns
+1610612756,915,Rodney Rogers,Phoenix Suns
+1610612756,2092,Ruben Garces,Phoenix Suns
+1610612756,1890,Shawn Marion,Phoenix Suns
+1610612756,339,Tom Gugliotta,Phoenix Suns
+1610612756,960,Tony Delk,Phoenix Suns
+1610612757,176,Antonio Harvey,Portland Trail Blazers
+1610612757,717,Arvydas Sabonis,Portland Trail Blazers
+1610612757,1719,Bonzi Wells,Portland Trail Blazers
+1610612757,905,Dale Davis,Portland Trail Blazers
+1610612757,757,Damon Stoudamire,Portland Trail Blazers
+1610612757,2057,Erick Barkley,Portland Trail Blazers
+1610612757,21,Greg Anthony,Portland Trail Blazers
+1610612757,739,Rasheed Wallace,Portland Trail Blazers
+1610612757,937,Scottie Pippen,Portland Trail Blazers
+1610612757,431,Shawn Kemp,Portland Trail Blazers
+1610612757,278,Stacey Augmon,Portland Trail Blazers
+1610612757,120,Steven Smith,Portland Trail Blazers
+1610612757,781,Will Perdue,Portland Trail Blazers
+1610612758,1517,Bobby Jackson,Sacramento Kings
+1610612758,185,Chris Webber,Sacramento Kings
+1610612758,239,Darrick Martin,Sacramento Kings
+1610612758,57,Doug Christie,Sacramento Kings
+1610612758,2045,Hedo Turkoglu,Sacramento Kings
+1610612758,1715,Jason Williams,Sacramento Kings
+1610612758,468,Jon Barry,Sacramento Kings
+1610612758,1444,Lawrence Funderburke,Sacramento Kings
+1610612758,98,Nick Anderson,Sacramento Kings
+1610612758,978,Peja Stojakovic,Sacramento Kings
+1610612758,1513,Scot Pollard,Sacramento Kings
+1610612758,124,Vlade Divac,Sacramento Kings
+1610612759,1498,Antonio Daniels,San Antonio Spurs
+1610612759,422,Avery Johnson,San Antonio Spurs
+1610612759,198,Danny Ferry,San Antonio Spurs
+1610612759,764,David Robinson,San Antonio Spurs
+1610612759,1507,Derek Anderson,San Antonio Spurs
+1610612759,1956,Ira Newble,San Antonio Spurs
+1610612759,1114,Jaren Jackson,San Antonio Spurs
+1610612759,990,Malik Rose,San Antonio Spurs
+1610612759,955,Samaki Walker,San Antonio Spurs
+1610612759,251,Sean Elliott,San Antonio Spurs
+1610612759,70,Steve Kerr,San Antonio Spurs
+1610612759,345,Terry Porter,San Antonio Spurs
+1610612759,1495,Tim Duncan,San Antonio Spurs
+1610612761,1541,Alvin Williams,Toronto Raptors
+1610612761,213,Antonio Davis,Toronto Raptors
+1610612761,891,Charles Oakley,Toronto Raptors
+1610612761,722,Corliss Williamson,Toronto Raptors
+1610612761,209,Dell Curry,Toronto Raptors
+1610612761,2123,Garth Joseph,Toronto Raptors
+1610612761,788,Kevin Willis,Toronto Raptors
+1610612761,1600,Kornel David,Toronto Raptors
+1610612761,349,Mark Jackson,Toronto Raptors
+1610612761,1565,Michael Stewart,Toronto Raptors
+1610612761,2050,Morris Peterson,Toronto Raptors
+1610612761,177,Muggsy Bogues,Toronto Raptors
+1610612761,895,Tyrone Corbin,Toronto Raptors
+1610612761,1713,Vince Carter,Toronto Raptors
+1610612762,935,Bryon Russell,Utah Jazz
+1610612762,330,Danny Manning,Utah Jazz
+1610612762,128,David Benoit,Utah Jazz
+1610612762,2052,DeShawn Stevenson,Utah Jazz
+1610612762,923,Donyell Marshall,Utah Jazz
+1610612762,731,Greg Ostertag,Utah Jazz
+1610612762,1521,Jacque Vaughn,Utah Jazz
+1610612762,317,John Starks,Utah Jazz
+1610612762,304,John Stockton,Utah Jazz
+1610612762,252,Karl Malone,Utah Jazz
+1610612762,178,Olden Polynice,Utah Jazz
+1610612762,1900,Quincy Lewis,Utah Jazz
+1610612764,1916,Calvin Booth,Washington Wizards
+1610612764,685,Cherokee Parks,Washington Wizards
+1610612764,43,Chris Whitney,Washington Wizards
+1610612764,1732,Felipe Lopez,Washington Wizards
+1610612764,1562,Gerard King,Washington Wizards
+1610612764,1751,Jahidi White,Washington Wizards
+1610612764,436,Juwan Howard,Washington Wizards
+1610612764,63,Michael Smith,Washington Wizards
+1610612764,782,Mitch Richmond,Washington Wizards
+1610612764,1918,Obinna Ekezie,Washington Wizards
+1610612764,1888,Richard Hamilton,Washington Wizards
+1610612764,393,Rod Strickland,Washington Wizards

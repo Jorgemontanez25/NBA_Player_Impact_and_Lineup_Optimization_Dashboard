@@ -1,9 +1,8 @@
 metric,value
-Total lineups analyzed,18
-Reliable lineups,1
-Players analyzed,25
-Reliable players,16
-Player pairs analyzed,97
-Reliable player pairs,82
-High-value lineups,1
-Underused watchlist lineups,1
+Reliable players,363
+Reliable lineups,3267
+Reliable player pairs,1618
+Models evaluated,3
+Top player records,15
+Top lineup records,10
+Top pair records,15

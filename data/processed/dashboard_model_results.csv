@@ -1,0 +1,4 @@
+model,rmse,mae,r2
+Linear Regression,6.9,5.466,0.042
+Ridge Regression,6.981,5.517,0.02
+Random Forest,6.95,5.476,0.028
